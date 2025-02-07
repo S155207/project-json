@@ -6,7 +6,7 @@
         "location": "Palo Alto, California",
         "founded": 2003,
         "CEO": "Elon Musk",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Tesla%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-002",
@@ -14,7 +14,7 @@
         "location": "Dearborn, Michigan",
         "founded": 1903,
         "CEO": "Jim Farley",
-        "emblem": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/manufacturers/Ford%20-%20Logo.webp?token=GHSAT0AAAAAAC6KIC2HLYUGVWAOKIN7YDAYZ5FBZWA"
+        "emblem": "https"
       },
       {
         "id": "MANU-003",
@@ -22,7 +22,7 @@
         "location": "Detroit, Michigan",
         "founded": 1908,
         "CEO": "Mary Barra",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/General%20Motors%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-004",
@@ -30,7 +30,7 @@
         "location": "Stuttgart, Germany",
         "founded": 1931,
         "CEO": "Oliver Blume",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Porsche%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-005",
@@ -38,7 +38,7 @@
         "location": "Munich, Germany",
         "founded": 1916,
         "CEO": "Oliver Zipse",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/BMW%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-006",
@@ -46,7 +46,7 @@
         "location": "Ingolstadt, Germany",
         "founded": 1909,
         "CEO": "Markus Duesmann",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Audi%20-%20Logo.jpg?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-007",
@@ -54,7 +54,7 @@
         "location": "Whitley, UK",
         "founded": 1922,
         "CEO": "Thierry Bolloré",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Jaguar%20Land%20Rover%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-008",
@@ -62,7 +62,7 @@
         "location": "Sant'Agata Bolognese, Italy",
         "founded": 1963,
         "CEO": "Stephan Winkelmann",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Lamborghini%20-%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-009",
@@ -70,7 +70,7 @@
         "location": "Stuttgart, Germany",
         "founded": 1926,
         "CEO": "Ola Källenius",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Mercedes-Benz%20Logo.png?raw=true"
+        "emblem": "https"
       },
       {
         "id": "MANU-010",
@@ -78,7 +78,7 @@
         "location": "Yokohama, Japan",
         "founded": 1933,
         "CEO": "Makoto Uchida",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Nissan%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     ]
   }

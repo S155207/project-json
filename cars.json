@@ -10,7 +10,7 @@
       "manufactureDate": "2023-03-15",
       "currentlyAvailable": true,
       "price": 79999,
-      "avatar": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/cars/gpt%20-%20Tesla%20Model%20S.webp?token=GHSAT0AAAAAAC6KIC2HS6SU2QLSK3KQVMH6Z5FBPOA",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Tesla_Model_S.jpg?raw=true",
       "features": [
         "Autopilot",
         "Full Self-Driving",
@@ -23,7 +23,7 @@
         "location": "Palo Alto, California",
         "founded": 2003,
         "CEO": "Elon Musk",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Tesla%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -36,7 +36,7 @@
       "manufactureDate": "2021-05-10",
       "currentlyAvailable": false,
       "price": 42995,
-      "avatar": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/cars/gpt%20-%20Ford%20Mustang%20GT.webp?token=GHSAT0AAAAAAC6KIC2GYTDFPRG342RXPJ7IZ5FBQKA",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Ford_Mustang_GT.jpg?raw=true",
       "features": [
         "Sync 4 System",
         "Track Apps",
@@ -49,7 +49,7 @@
         "location": "Dearborn, Michigan",
         "founded": 1903,
         "CEO": "Jim Farley",
-        "emblem": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/manufacturers/Ford%20-%20Logo.webp?token=GHSAT0AAAAAAC6KIC2HLYUGVWAOKIN7YDAYZ5FBZWA"
+        "emblem": "https"
       }
     },
     {
@@ -62,7 +62,7 @@
       "manufactureDate": "2013-05-15",
       "currentlyAvailable": false,
       "price": 49995,
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chevrolet_Corvette_C6_ZR1.JPG",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Chevrolet_Corvette_C6.jpg?raw=true",
       "features": [
         "Magnetic Selective Ride Control",
         "Heads-Up Display",
@@ -75,7 +75,7 @@
         "location": "Detroit, Michigan",
         "founded": 1908,
         "CEO": "Mary Barra",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/General%20Motors%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -88,7 +88,7 @@
       "manufactureDate": "2023-01-05",
       "currentlyAvailable": true,
       "price": 99950,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Porsche%20911%20Carrera.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Porsche_911_Carrera.jpg?raw=true",
       "features": [
         "Porsche Active Suspension Management",
         "Sport Chrono Package",
@@ -101,7 +101,7 @@
         "location": "Stuttgart, Germany",
         "founded": 1931,
         "CEO": "Oliver Blume",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Porsche%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -114,7 +114,7 @@
       "manufactureDate": "2023-04-10",
       "currentlyAvailable": true,
       "price": 71900,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20BMW%20M3.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/BMW_M3.jpg?raw=true",
       "features": [
         "M xDrive",
         "M Sport Exhaust",
@@ -127,7 +127,7 @@
         "location": "Munich, Germany",
         "founded": 1916,
         "CEO": "Oliver Zipse",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/BMW%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -140,7 +140,7 @@
       "manufactureDate": "2023-06-15",
       "currentlyAvailable": true,
       "price": 62500,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Audi%20RS3.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Audi_RS3.jpg?raw=true",
       "features": [
         "Audi Virtual Cockpit",
         "Quattro All-Wheel Drive",
@@ -153,7 +153,7 @@
         "location": "Ingolstadt, Germany",
         "founded": 1909,
         "CEO": "Markus Duesmann",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Audi%20-%20Logo.jpg?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -166,7 +166,7 @@
       "manufactureDate": "2021-11-20",
       "currentlyAvailable": true,
       "price": 61995,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Jaguar%20F-Type.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Jaguar_F-Type.jpg?raw=true",
       "features": [
         "Adaptive Dynamics",
         "Jaguar InControl",
@@ -179,7 +179,7 @@
         "location": "Whitley, UK",
         "founded": 1922,
         "CEO": "Thierry Bolloré",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Jaguar%20Land%20Rover%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -192,7 +192,7 @@
       "manufactureDate": "2023-02-01",
       "currentlyAvailable": true,
       "price": 261274,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Lamborghini%20Huracan.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Lamborghini_Huracan.jpg?raw=true",
       "features": [
         "Lamborghini Dynamic Steering",
         "Magneto-rheological Suspension",
@@ -205,7 +205,7 @@
         "location": "Sant'Agata Bolognese, Italy",
         "founded": 1963,
         "CEO": "Stephan Winkelmann",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Lamborghini%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -218,7 +218,7 @@
       "manufactureDate": "2023-03-01",
       "currentlyAvailable": true,
       "price": 109800,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Merceds-Benz%20S-Class.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Mercedes_Benz_S-Class.jpg?raw=true",
       "features": [
         "MBUX Infotainment",
         "Air Balance Package",
@@ -231,7 +231,7 @@
         "location": "Stuttgart, Germany",
         "founded": 1926,
         "CEO": "Ola Källenius",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Mercedes-Benz%20Logo.png?raw=true"
+        "emblem": "https"
       }
     },
     {
@@ -244,7 +244,7 @@
       "manufactureDate": "1999-01-15",
       "currentlyAvailable": false,
       "price": 85000,
-      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Nissan%20Skyline%20R34.jpeg?raw=true",
+      "avatar": "https://github.com/S155207/project-json/blob/main/images/cars/Nissan_Skyline_R34.jpg?raw=true",
       "features": [
         "ATTESA E-TS Pro AWD",
         "Super-HICAS 4-Wheel Steering",
@@ -257,7 +257,7 @@
         "location": "Yokohama, Japan",
         "founded": 1933,
         "CEO": "Makoto Uchida",
-        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Nissan%20-%20Logo.png?raw=true"
+        "emblem": "https"
       }
     }
   ]
