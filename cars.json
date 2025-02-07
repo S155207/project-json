@@ -1,0 +1,264 @@
+{
+  "carFleet": [
+    {
+      "id": "CAR-001",
+      "name": "Tesla Model S",
+      "description": "A revolutionary electric sedan with insane acceleration and cutting-edge tech.",
+      "engine": "Dual Motor All-Wheel Drive",
+      "topSpeed": 200,
+      "year": 2023,
+      "manufactureDate": "2023-03-15",
+      "currentlyAvailable": true,
+      "price": 79999,
+      "avatar": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/cars/gpt%20-%20Tesla%20Model%20S.webp?token=GHSAT0AAAAAAC6KIC2HS6SU2QLSK3KQVMH6Z5FBPOA",
+      "features": [
+        "Autopilot",
+        "Full Self-Driving",
+        "Smart Summon"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-001",
+        "name": "Tesla Inc.",
+        "location": "Palo Alto, California",
+        "founded": 2003,
+        "CEO": "Elon Musk",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Tesla%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-002",
+      "name": "Ford Mustang GT",
+      "description": "An iconic American muscle car with raw power and a throaty exhaust note.",
+      "engine": "5.0L V8",
+      "topSpeed": 155,
+      "year": 2021,
+      "manufactureDate": "2021-05-10",
+      "currentlyAvailable": false,
+      "price": 42995,
+      "avatar": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/cars/gpt%20-%20Ford%20Mustang%20GT.webp?token=GHSAT0AAAAAAC6KIC2GYTDFPRG342RXPJ7IZ5FBQKA",
+      "features": [
+        "Sync 4 System",
+        "Track Apps",
+        "Recaro Seats"
+      ],
+      "transmissionType": "Manual",
+      "manufacturer": {
+        "id": "MANU-002",
+        "name": "Ford Motor Company",
+        "location": "Dearborn, Michigan",
+        "founded": 1903,
+        "CEO": "Jim Farley",
+        "emblem": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/manufacturers/Ford%20-%20Logo.webp?token=GHSAT0AAAAAAC6KIC2HLYUGVWAOKIN7YDAYZ5FBZWA"
+      }
+    },
+    {
+      "id": "CAR-003",
+      "name": "Chevrolet Corvette Stingray",
+      "description": "A powerful sports car with a mid-engine design and unparalleled performance on the track.",
+      "engine": "6.2L V8",
+      "topSpeed": 194,
+      "year": 2022,
+      "manufactureDate": "2022-07-20",
+      "currentlyAvailable": true,
+      "price": 59995,
+      "avatar": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/refs/heads/main/project/images/cars/gpt%20-%20Chevrolet%20Corvette%20Stingray.webp?token=GHSAT0AAAAAAC6KIC2G3E3BWUOA4NZ4EUMOZ5FBQ2A",
+      "features": [
+        "Magnetic Ride Control",
+        "Bose Performance Series Audio",
+        "Z51 Performance Package"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-003",
+        "name": "General Motors",
+        "location": "Detroit, Michigan",
+        "founded": 1908,
+        "CEO": "Mary Barra",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/General%20Motors%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-004",
+      "name": "Porsche 911 Carrera",
+      "description": "A legendary sports car with a balance of luxury and track-ready performance.",
+      "engine": "3.0L Twin-Turbocharged Flat-Six",
+      "topSpeed": 182,
+      "year": 2023,
+      "manufactureDate": "2023-01-05",
+      "currentlyAvailable": true,
+      "price": 99950,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Porsche%20911%20Carrera.jpeg?raw=true",
+      "features": [
+        "Porsche Active Suspension Management",
+        "Sport Chrono Package",
+        "Porsche Communication Management"
+      ],
+      "transmissionType": "Porsche Doppelkupplung (PDK)",
+      "manufacturer": {
+        "id": "MANU-004",
+        "name": "Porsche AG",
+        "location": "Stuttgart, Germany",
+        "founded": 1931,
+        "CEO": "Oliver Blume",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Porsche%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-005",
+      "name": "BMW M3",
+      "description": "A high-performance sedan with razor-sharp handling and a powerful engine.",
+      "engine": "3.0L Inline-6 Turbo",
+      "topSpeed": 155,
+      "year": 2023,
+      "manufactureDate": "2023-04-10",
+      "currentlyAvailable": true,
+      "price": 71900,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20BMW%20M3.jpeg?raw=true",
+      "features": [
+        "M xDrive",
+        "M Sport Exhaust",
+        "Live Cockpit Professional"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-005",
+        "name": "BMW AG",
+        "location": "Munich, Germany",
+        "founded": 1916,
+        "CEO": "Oliver Zipse",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/BMW%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-006",
+      "name": "Audi RS3",
+      "description": "A high-performance compact sedan with turbocharged power and Quattro grip.",
+      "engine": "2.5L Turbocharged Inline-5",
+      "topSpeed": 180,
+      "year": 2023,
+      "manufactureDate": "2023-06-15",
+      "currentlyAvailable": true,
+      "price": 62500,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Audi%20RS3.jpeg?raw=true",
+      "features": [
+        "Audi Virtual Cockpit",
+        "Quattro All-Wheel Drive",
+        "RS Torque Splitter"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-006",
+        "name": "Audi AG",
+        "location": "Ingolstadt, Germany",
+        "founded": 1909,
+        "CEO": "Markus Duesmann",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Audi%20-%20Logo.jpg?raw=true"
+      }
+    },
+    {
+      "id": "CAR-007",
+      "name": "Jaguar F-Type",
+      "description": "A sleek and sophisticated sports car with a roaring engine and agile handling.",
+      "engine": "5.0L V8 Supercharged",
+      "topSpeed": 186,
+      "year": 2021,
+      "manufactureDate": "2021-11-20",
+      "currentlyAvailable": true,
+      "price": 61995,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Jaguar%20F-Type.jpeg?raw=true",
+      "features": [
+        "Adaptive Dynamics",
+        "Jaguar InControl",
+        "Meridian Sound System"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-007",
+        "name": "Jaguar Land Rover",
+        "location": "Whitley, UK",
+        "founded": 1922,
+        "CEO": "Thierry Bolloré",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Jaguar%20Land%20Rover%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-008",
+      "name": "Lamborghini Huracán",
+      "description": "An extreme supercar with mind-bending speed, sharp design, and an unmistakable roar.",
+      "engine": "5.2L V10",
+      "topSpeed": 202,
+      "year": 2023,
+      "manufactureDate": "2023-02-01",
+      "currentlyAvailable": true,
+      "price": 261274,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Lamborghini%20Huracan.jpeg?raw=true",
+      "features": [
+        "Lamborghini Dynamic Steering",
+        "Magneto-rheological Suspension",
+        "Adaptive Frontlight System"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-008",
+        "name": "Lamborghini",
+        "location": "Sant'Agata Bolognese, Italy",
+        "founded": 1963,
+        "CEO": "Stephan Winkelmann",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Lamborghini%20-%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-009",
+      "name": "Mercedes-Benz S-Class",
+      "description": "A luxurious sedan with advanced technology, comfort, and a smooth driving experience.",
+      "engine": "4.0L V8 Bi-Turbo",
+      "topSpeed": 155,
+      "year": 2023,
+      "manufactureDate": "2023-03-01",
+      "currentlyAvailable": true,
+      "price": 109800,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Merceds-Benz%20S-Class.jpeg?raw=true",
+      "features": [
+        "MBUX Infotainment",
+        "Air Balance Package",
+        "Burmester 3D Sound System"
+      ],
+      "transmissionType": "Automatic",
+      "manufacturer": {
+        "id": "MANU-009",
+        "name": "Mercedes-Benz",
+        "location": "Stuttgart, Germany",
+        "founded": 1926,
+        "CEO": "Ola Källenius",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Mercedes-Benz%20Logo.png?raw=true"
+      }
+    },
+    {
+      "id": "CAR-010",
+      "name": "Nissan Skyline R34",
+      "description": "An iconic JDM legend, known for its turbocharged power and precision handling.",
+      "engine": "2.6L Twin-Turbo Inline-6 (RB26DETT)",
+      "topSpeed": 165,
+      "year": 1999,
+      "manufactureDate": "1999-01-15",
+      "currentlyAvailable": false,
+      "price": 85000,
+      "avatar": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/cars/bing%20-%20Nissan%20Skyline%20R34.jpeg?raw=true",
+      "features": [
+        "ATTESA E-TS Pro AWD",
+        "Super-HICAS 4-Wheel Steering",
+        "MFD Display with Boost Monitoring"
+      ],
+      "transmissionType": "Manual",
+      "manufacturer": {
+        "id": "MANU-010",
+        "name": "Nissan Motor Co.",
+        "location": "Yokohama, Japan",
+        "founded": 1933,
+        "CEO": "Makoto Uchida",
+        "emblem": "https://github.com/AP-G-1PRO-Webontwikkeling/nodejs-basics-S155207/blob/main/project/images/manufacturers/Nissan%20-%20Logo.png?raw=true"
+      }
+    }
+  ]
+}
