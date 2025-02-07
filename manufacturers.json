@@ -14,7 +14,7 @@
         "location": "Dearborn, Michigan",
         "founded": 1903,
         "CEO": "Jim Farley",
-        "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Ford_Logo.webp"
+        "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Ford_Logo.png?raw=true"
       },
       {
         "id": "MANU-003",
