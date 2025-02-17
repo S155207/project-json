@@ -82,3 +82,10 @@ function filterDataById() {
 }
 
 loadCarsData();
+
+
+
+// Vragen voor docent:
+// toon menu pas na het laden van de json
+// toon het id met padding
+// clear de console -> press enter to continue
