@@ -9,7 +9,7 @@
     "manufactureDate": "2023-03-15",
     "currentlyAvailable": true,
     "price": 79999,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Tesla_Model_S.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Tesla_Model_S.jpg",
     "features": [
       "Autopilot",
       "Full Self-Driving",
@@ -22,7 +22,7 @@
       "location": "Palo Alto, California",
       "founded": 2003,
       "CEO": "Elon Musk",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Tesla_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Tesla_Logo.png"
     }
   },
   {
@@ -35,7 +35,7 @@
     "manufactureDate": "2021-05-10",
     "currentlyAvailable": false,
     "price": 42995,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Ford_Mustang_GT.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Ford_Mustang_GT.jpg",
     "features": [
       "Sync 4 System",
       "Track Apps",
@@ -48,7 +48,7 @@
       "location": "Dearborn, Michigan",
       "founded": 1903,
       "CEO": "Jim Farley",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Ford_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Ford_Logo.png"
     }
   },
   {
@@ -61,7 +61,7 @@
     "manufactureDate": "2013-05-15",
     "currentlyAvailable": false,
     "price": 49995,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Chevrolet_Corvette_C6.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Chevrolet_Corvette_C6.jpg",
     "features": [
       "Magnetic Selective Ride Control",
       "Heads-Up Display",
@@ -74,7 +74,7 @@
       "location": "Detroit, Michigan",
       "founded": 1908,
       "CEO": "Mary Barra",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/General_Motors_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/General_Motors_Logo.png"
     }
   },
   {
@@ -87,7 +87,7 @@
     "manufactureDate": "2023-01-05",
     "currentlyAvailable": true,
     "price": 99950,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Porsche_911_Carrera.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Porsche_911_Carrera.jpg",
     "features": [
       "Porsche Active Suspension Management",
       "Sport Chrono Package",
@@ -100,7 +100,7 @@
       "location": "Stuttgart, Germany",
       "founded": 1931,
       "CEO": "Oliver Blume",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Porsche_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Porsche_Logo.png"
     }
   },
   {
@@ -113,7 +113,7 @@
     "manufactureDate": "2023-04-10",
     "currentlyAvailable": true,
     "price": 71900,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/BMW_M3.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/BMW_M3.jpg",
     "features": [
       "M xDrive",
       "M Sport Exhaust",
@@ -126,7 +126,7 @@
       "location": "Munich, Germany",
       "founded": 1916,
       "CEO": "Oliver Zipse",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/BMW_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/BMW_Logo.png"
     }
   },
   {
@@ -139,7 +139,7 @@
     "manufactureDate": "2023-06-15",
     "currentlyAvailable": true,
     "price": 62500,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Audi_RS3.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Audi_RS3.jpg",
     "features": [
       "Audi Virtual Cockpit",
       "Quattro All-Wheel Drive",
@@ -152,7 +152,7 @@
       "location": "Ingolstadt, Germany",
       "founded": 1909,
       "CEO": "Markus Duesmann",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Audi_Logo.jpg?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Audi_Logo.jpg"
     }
   },
   {
@@ -165,7 +165,7 @@
     "manufactureDate": "2021-11-20",
     "currentlyAvailable": true,
     "price": 61995,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Jaguar_F-Type.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Jaguar_F-Type.jpg",
     "features": [
       "Adaptive Dynamics",
       "Jaguar InControl",
@@ -178,7 +178,7 @@
       "location": "Whitley, UK",
       "founded": 1922,
       "CEO": "Thierry Bolloré",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Jaguar_Land_Rover_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Jaguar_Land_Rover_Logo.png"
     }
   },
   {
@@ -191,7 +191,7 @@
     "manufactureDate": "2023-02-01",
     "currentlyAvailable": true,
     "price": 261274,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Lamborghini_Huracan.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Lamborghini_Huracan.jpg",
     "features": [
       "Lamborghini Dynamic Steering",
       "Magneto-rheological Suspension",
@@ -204,7 +204,7 @@
       "location": "Sant'Agata Bolognese, Italy",
       "founded": 1963,
       "CEO": "Stephan Winkelmann",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Lamborghini_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Lamborghini_Logo.png"
     }
   },
   {
@@ -217,7 +217,7 @@
     "manufactureDate": "2023-03-01",
     "currentlyAvailable": true,
     "price": 109800,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Mercedes_Benz_S-Class.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Mercedes_Benz_S-Class.jpg",
     "features": [
       "MBUX Infotainment",
       "Air Balance Package",
@@ -230,7 +230,7 @@
       "location": "Stuttgart, Germany",
       "founded": 1926,
       "CEO": "Ola Källenius",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Mercedes-Benz_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Mercedes-Benz_Logo.png"
     }
   },
   {
@@ -243,7 +243,7 @@
     "manufactureDate": "1999-01-15",
     "currentlyAvailable": false,
     "price": 85000,
-    "photo": "https://github.com/S155207/project-json/blob/main/images/cars/Nissan_Skyline_R34.jpg?raw=true",
+    "photo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/cars/Nissan_Skyline_R34.jpg",
     "features": [
       "ATTESA E-TS Pro AWD",
       "Super-HICAS 4-Wheel Steering",
@@ -256,7 +256,7 @@
       "location": "Yokohama, Japan",
       "founded": 1933,
       "CEO": "Makoto Uchida",
-      "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Nissan_Logo.png?raw=true"
+      "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Nissan_Logo.png"
     }
   }
 ]
