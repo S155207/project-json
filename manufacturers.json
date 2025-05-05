@@ -5,7 +5,7 @@
     "location": "Palo Alto, California",
     "founded": 2003,
     "CEO": "Elon Musk",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Tesla_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Tesla_Logo.png"
   },
   {
     "id": "MANU-002",
@@ -13,7 +13,7 @@
     "location": "Dearborn, Michigan",
     "founded": 1903,
     "CEO": "Jim Farley",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Ford_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Ford_Logo.png"
   },
   {
     "id": "MANU-003",
@@ -21,7 +21,7 @@
     "location": "Detroit, Michigan",
     "founded": 1908,
     "CEO": "Mary Barra",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/General_Motors_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/General_Motors_Logo.png"
   },
   {
     "id": "MANU-004",
@@ -29,7 +29,7 @@
     "location": "Stuttgart, Germany",
     "founded": 1931,
     "CEO": "Oliver Blume",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Porsche_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Porsche_Logo.png"
   },
   {
     "id": "MANU-005",
@@ -37,7 +37,7 @@
     "location": "Munich, Germany",
     "founded": 1916,
     "CEO": "Oliver Zipse",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/BMW_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/BMW_Logo.png"
   },
   {
     "id": "MANU-006",
@@ -45,7 +45,7 @@
     "location": "Ingolstadt, Germany",
     "founded": 1909,
     "CEO": "Markus Duesmann",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Audi_Logo.jpg?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Audi_Logo.jpg"
   },
   {
     "id": "MANU-007",
@@ -53,7 +53,7 @@
     "location": "Whitley, UK",
     "founded": 1922,
     "CEO": "Thierry Bolloré",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Jaguar_Land_Rover_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Jaguar_Land_Rover_Logo.png"
   },
   {
     "id": "MANU-008",
@@ -61,7 +61,7 @@
     "location": "Sant'Agata Bolognese, Italy",
     "founded": 1963,
     "CEO": "Stephan Winkelmann",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Lamborghini_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Lamborghini_Logo.png"
   },
   {
     "id": "MANU-009",
@@ -69,7 +69,7 @@
     "location": "Stuttgart, Germany",
     "founded": 1926,
     "CEO": "Ola Källenius",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Mercedes-Benz_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Mercedes-Benz_Logo.png"
   },
   {
     "id": "MANU-010",
@@ -77,6 +77,6 @@
     "location": "Yokohama, Japan",
     "founded": 1933,
     "CEO": "Makoto Uchida",
-    "logo": "https://github.com/S155207/project-json/blob/main/images/manufacturers/Nissan_Logo.png?raw=true"
+    "logo": "https://raw.githubusercontent.com/S155207/project-json/refs/heads/main/images/manufacturers/Nissan_Logo.png"
   }
 ]
